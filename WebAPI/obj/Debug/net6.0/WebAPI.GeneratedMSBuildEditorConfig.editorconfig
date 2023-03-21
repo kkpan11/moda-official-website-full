@@ -1,0 +1,32 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAPI
+build_property.RootNamespace = WebAPI
+build_property.ProjectDir = D:\wrok\Git\dev\MODA\WebAPI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\wrok\Git\dev\MODA\WebAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/wrok/Git/dev/MODA/WebAPI/Views/WebSiteList/LeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViU2l0ZUxpc3RcTGVmdE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebAPI/Views/WebSiteList/NewsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViU2l0ZUxpc3RcTmV3c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebAPI/Views/WebSiteList/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViU2l0ZUxpc3RcUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebAPI/Views/WebSiteList/TitleBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViU2l0ZUxpc3RcVGl0bGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,240 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebSite
+build_property.RootNamespace = WebSite
+build_property.ProjectDir = D:\wrok\Git\dev\MODA\WebSite\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\wrok\Git\dev\MODA\WebSite
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Banner1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXEJhbm5lcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Hint7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXEhpbnQ3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Link4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXExpbms0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Link6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXExpbms2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Tab2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXFRhYjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Tab3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXFRhYjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ACS/Tab5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUNTXFRhYjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Banner1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXEJhbm5lcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Hint7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXEhpbnQ3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Link4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXExpbms0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Link6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXExpbms2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/News2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXE5ld3MyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/PageList5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXFBhZ2VMaXN0NS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/ADI/Tab3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQURJXFRhYjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Common/Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXEJyZWFkY3J1bWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Common/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhZ2luYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Tab1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUYWIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Tab2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUYWIyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Tab3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUYWIzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Tab4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUYWI0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Dept/Tab5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwdFxUYWI1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/leftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsZWZ0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/sitemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaXRlbWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Home/titleBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0aXRsZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/ColorBlockList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcQ29sb3JCbG9ja0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/IcoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcSWNvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/LabelList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcTGFiZWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/NewsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcTmV3c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/PageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcUGFnZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Level/TextList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGV2ZWxcVGV4dExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Banner1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxCYW5uZXIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Banner2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxCYW5uZXIyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Hint8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxIaW50OC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Imgvideo9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxJbWd2aWRlbzkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Link7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxMaW5rNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Media6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxNZWRpYTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Tab3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxUYWIzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Tab4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxUYWI0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/MODA/Tab5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTU9EQVxUYWI1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/News/CP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xDUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/News/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/News/Transcript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xUcmFuc2NyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/WebSite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jabq2d7uqs

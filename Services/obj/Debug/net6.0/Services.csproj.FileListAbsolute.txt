@@ -1,0 +1,17 @@
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\Services.deps.json
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\Services.dll
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\ref\Services.dll
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\Services.pdb
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\DBModel.dll
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\Utility.dll
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\DBModel.pdb
+D:\wrok\Git\dev\MODA\Services\bin\Debug\net6.0\Utility.pdb
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.dll
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\ref\Services.dll
+D:\wrok\Git\dev\MODA\Services\obj\Debug\net6.0\Services.pdb

@@ -1,0 +1,98 @@
+﻿body {
+}
+
+.shape {
+    border-style: solid;
+    border-width: 0 80px 55px 0;
+    float: right;
+    height: 0px;
+    width: 0px;
+    -ms-transform: rotate(360deg); /* IE 9 */
+    -o-transform: rotate(360deg); /* Opera 10.5 */
+    -webkit-transform: rotate(360deg); /* Safari and Chrome */
+    transform: rotate(360deg);
+}
+
+.offer {
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    margin: 15px 0;
+    overflow: hidden;
+}
+
+.offer-radius {
+    border-radius: 7px;
+}
+
+.offer-success {
+    border-color: #5cb85c;
+}
+
+    .offer-success .shape {
+        border-color: transparent #5cb85c transparent transparent;
+        border-color: rgba(255,255,255,0) #5cb85c rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+
+.offer-default {
+    border-color: #999999;
+}
+
+    .offer-default .shape {
+        border-color: transparent #999999 transparent transparent;
+        border-color: rgba(255,255,255,0) #999999 rgba(255,255,255,0) rgba(255,255,255,0);
+    }
+
+
+.shape-text {
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    right: -40px;
+    top: 2px;
+    white-space: nowrap;
+    -ms-transform: rotate(30deg); /* IE 9 */
+    -o-transform: rotate(360deg); /* Opera 10.5 */
+    -webkit-transform: rotate(30deg); /* Safari and Chrome */
+    transform: rotate(30deg);
+}
+
+.offer-content {
+    padding: 0 20px 10px;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.UseFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 800px;
+}
+
+.dual-list .list-group {
+    margin-top: 8px;
+}
+
+.list-left li, .list-right li {
+    cursor: pointer;
+}
+
+.list-arrows button {
+    margin-bottom: 20px;
+}
+
+nav ul {
+    height: 300px;
+    width: 99%;
+}
+
+nav ul {
+    overflow: hidden;
+    overflow-y: scroll;
+}
+

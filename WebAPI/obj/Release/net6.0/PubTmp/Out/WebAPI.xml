@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Common.WriteLog(System.String)">
+            <summary>
+            填寫log
+            </summary>
+            <param name="text"></param>
+        </member>
+        <member name="M:WebAPI.Common.GetAppsetting(System.String)">
+            <summary>
+            讀取appsetting
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPI.Controllers.FileController">
+            <summary>
+            FileApi
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.FileController.getAsync(System.String)">
+            <summary>
+            取得File
+            </summary>
+            <param name="fileID"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:WebAPI.Controllers.FileController.get2Async(System.String,System.String,System.String)" -->
+        <member name="T:WebAPI.Controllers.OpenDataController">
+            <summary>
+            OpenData
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.OpenDataController.GetOpenData(System.String,System.String)">
+            <summary>
+            取得開放資料集
+            </summary>
+            <param name="type"></param>
+            <param name="ODKey"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OpenDataController.GetNewsOpenDataFile(System.Int32)">
+            <summary>
+            取得開放資料集檔案
+            From OpenData
+            </summary>
+            <param name="NewsSN"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OpenDataController.GetOpenDataFile(System.Int32)">
+            <summary>
+            取得開放資料集檔案
+            From News
+            </summary>
+            <param name="nsn"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSNews">
+            <summary>
+            新聞稿
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSNewsen">
+            <summary>
+            新聞稿en
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSClarification">
+            <summary>
+            即時新聞澄清
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSClarificationen">
+            <summary>
+            即時新聞澄清en
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSADINews">
+            <summary>
+            新聞稿
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSACSNews">
+            <summary>
+            新聞稿
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.RSSController.RSSChannel(System.Int32,System.String)">
+            <summary>
+            查詢特定RSS頻道
+            </summary>
+            <param name="MainSN"></param>
+            <param name="Lang"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPI.Controllers.WebSiteListController">
+            <summary>
+            列表頁
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.WebSiteListController.NewsList(WebAPI.NewsListQuery)">
+            <summary>
+            查詢新聞列表
+            </summary>
+            <param name="MainSN"></param>
+            <param name="Lang"></param>
+            <param name="StartDate"></param>
+            <param name="EndDate"></param>
+            <param name="SearchString"></param>
+            <param name="p"></param>
+            <param name="DisplayCount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.WebSiteListController.LeftMenu(System.String)">
+            <summary>
+            左側選單
+            </summary>
+            <param name="sn"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

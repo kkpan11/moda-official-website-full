@@ -1,0 +1,17 @@
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.csproj.AssemblyReference.cache
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.AssemblyInfoInputs.cache
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.AssemblyInfo.cs
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.csproj.CoreCompileInputs.cache
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\DBModel.deps.json
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\DBModel.runtimeconfig.json
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\DBModel.dll
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\ref\DBModel.dll
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\DBModel.pdb
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\Utility.dll
+D:\wrok\Git\dev\MODA\DBModel\bin\Debug\net6.0\Utility.pdb
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.csproj.CopyComplete
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.dll
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\ref\DBModel.dll
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.pdb
+D:\wrok\Git\dev\MODA\DBModel\obj\Debug\net6.0\DBModel.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+{
+"data":[{
+  "WebSiteID":"MODA",
+  "Language":"TW",
+  "GA4":"319894226"
+},
+{
+  "WebSiteID":"MODA",
+  "Language":"EN",
+  "GA4":"325105932"
+},
+{
+  "WebSiteID":"ACS",
+  "Language":"TW",
+  "GA4":"325116348"
+},
+{
+  "WebSiteID":"ACS",
+  "Language":"EN",
+  "GA4":"325113821"
+},
+{
+  "WebSiteID":"ADI",
+  "Language":"TW",
+  "GA4":"325078051"
+},
+{
+  "WebSiteID":"ADI",
+  "Language":"EN",
+  "GA4":"325088453"
+}]
+}

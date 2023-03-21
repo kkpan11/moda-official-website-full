@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ModaMailBox
+build_property.RootNamespace = ModaMailBox
+build_property.ProjectDir = D:\wrok\Git\dev\MODA\ModaMailBox\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\wrok\Git\dev\MODA\ModaMailBox
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/common/AltC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tbW9uXEFsdEMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/CaseStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXNlU3RhdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/Certification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDZXJ0aWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/ConfirmMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/MailToUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWlsVG9Vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/QueryCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWVyeUNhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/ResendConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNlbmRDb25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/ResendConfirmAtionletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNlbmRDb25maXJtQXRpb25sZXR0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/ResendLetter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNlbmRMZXR0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/SubmitCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXRDYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/Survey.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXJ2ZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/SurveyForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXJ2ZXlGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/VerifyEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJpZnlFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Home/WriteMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXcml0ZU1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/wrok/Git/dev/MODA/ModaMailBox/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cknqddgwb3

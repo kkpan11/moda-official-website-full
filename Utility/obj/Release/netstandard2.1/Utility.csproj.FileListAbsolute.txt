@@ -1,0 +1,10 @@
+D:\wrok\Git\dev\MODA\Utility\bin\Release\netstandard2.1\Utility.deps.json
+D:\wrok\Git\dev\MODA\Utility\bin\Release\netstandard2.1\Utility.dll
+D:\wrok\Git\dev\MODA\Utility\bin\Release\netstandard2.1\Utility.pdb
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.csproj.AssemblyReference.cache
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.AssemblyInfoInputs.cache
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.AssemblyInfo.cs
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.csproj.CoreCompileInputs.cache
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.dll
+D:\wrok\Git\dev\MODA\Utility\obj\Release\netstandard2.1\Utility.pdb

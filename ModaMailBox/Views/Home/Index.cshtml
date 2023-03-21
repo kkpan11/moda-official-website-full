@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section meta
+{
+<link rel="stylesheet" href="/assets/css/index.css" media="all" asp-append-version="true" />
+@*<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=_turnstileCb" async defer></script>*@
+}
+<div class="a11yBrickBar1">
+    <a href="#AC" id="AC" accesskey="C" class="a11yBrick position-absolute" title="中央內容區塊[快捷鍵Alt+C]">:::</a>
+</div>
+<div class="wrap2 mx-auto px-3  py-4  overflow-hidden">
+    <div class="d-flex twoColConWrap px-lg-5 px-md-4 px-3 flex-wrap ">
+        <div class="col-sm-6 col-lg-6 d-flex align-self-center flex-wrap">
+            <div class="py-3">歡迎對電信、 資訊、資通安全、網路及傳播領域提出建言或反映問題，本部將會合法、合理、迅速、確實的處理與回饋。</div>
+            <div class="mobile_center">
+                <div class="col">
+                    <ul class="list-unstyled list-inline mb-0 mt-5 ">
+                        <li class="list-inline-item ">
+                            <a href="@Url.Action("mailtous","Home")" role="button" class="btn_index fs-4 bg-white px-4 py-3 me-5 rounded-4 ">開始寫信</a>
+                        </li>
+                        @*<li class="list-inline-item">
+                            <a href="" role="button" class="btn_index fs-4 bg-white px-4 py-3 rounded-4" onclick="ComingSoon()">流程說明</a>
+                        </li>*@
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-lg-6"><img src="/assets/img/mailbox/mailbox_index.png" alt="" class="img mailbox_index"></div>
+    </div>
+</div>
+@section Scripts
+{
+<script>
+function ComingSoon(){
+    event.preventDefault();
+    SetMsgShowAlert(2, "", "建置中");
+}
+</script>
+}

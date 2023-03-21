@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section meta
+{
+<link rel="stylesheet" href="/assets/css/custom.css" media="all" />
+}
+<div class="breadcrumb1">
+    <partial name="~/Views/common/AltC.cshtml" />
+    <div class="wrap4 mx-auto ">
+        <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item breadHome"><a href="@Url.Content("/")">首頁</a></li>
+                <li class="breadcrumb-item active" aria-current="page">服務說明</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<div class="wrap4 mx-auto px-3 px-md-4 px-lg-5 py-4 py-md-5 bg-white rounded-4 mb-5">
+
+    <!-- 內容主標 -->
+    <div class="row wrap5 ">
+        <h2 class="title3 position-relative text-center pb-3 mb-4 mb-md-5">服務說明</h2>
+        <div class="col">
+            <p>數位發展部（以下簡稱本部）民意信箱服務，僅限於「當事人聯絡」及「案件處理」必要範圍內進行蒐集、處理與利用您的個人資料。</p>
+            <p>請勿於主旨、內容及附件中留下個人資料，數位發展部保有刪除的權利且不負安全保管責任。</p>
+            <p>為保障您的正當權益，請務必詳閱以下所述事項：</p>
+            <ul class="list_style_square mb-4">
+                <li class="mb-3">基於陳情、請願、檢舉案件處理之目的範圍內，得以電子或紙本方式蒐集、處理及利用個人資料（辨識個人類：包含姓名、電子信箱、聯絡電話）。</li>
+                <li class="mb-3">個人資料使用之期限為3年，使用地區為中華民國境內，使用對象為本部或相關處理之其他機關（構）。</li>
+                <li class="mb-3">您可依個人資料保護法第三條行使當事人權利，包含查詢或請求閱覽、製給複製本、補充或更正、停止蒐集、處理或利用及刪除等作業。</li>
+                <li class="mb-3">若您不同意提供以上個人資枓，本部將無法回覆或處理您的問題。</li>
+            </ul>
+        </div>
+        <div>
+            <div class="px-4 py-3 rounded-4 check_box_bg">
+                <div class="mb-2 form-check">
+                    <input type="checkbox" class="form-check-input chkinfo" id="Check1" name="chkinfo">
+                    <label class="form-check-label" for="Check1">本人已明確知悉數位發展部蒐集、處理及利用本人個人資料之相關內容無誤。 </label>
+                </div>
+                <div class="mb-2 form-check">
+                    <input type="checkbox" class="form-check-input chkinfo" id="Check2" name="chkinfo">
+                    <label class="form-check-label" for="Check2">本人同意數位發展部於符合上揭蒐集之特定目的業務範圍內，蒐集、處理及利用本人個人資料。</label>
+                </div>
+            </div>
+            <div class="text-center mt-5 ">
+                <input type="button" id="nextBtn" class="write_btn_bg d-inline-flex fs-6  px-4 py-2 rounded-3 file_btn_color" role="button" value="開始寫信" />
+                @*  <a href="@Url.Content("~/Home/verifyemail")" id="nextBtn" class="write_btn_bg d-inline-flex fs-6  px-4 py-2 me-5 rounded-3 file_btn_color" role="button">開始寫信</a>*@
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+<script>
+    $(function(){
+        $("#nextBtn").click(function(){
+            if($('input[name="chkinfo"]:checked').length == $('input[name="chkinfo"]').length){
+                SetCookie("agreement",true);
+                location.replace("@Url.Action("verifyemail","Home")");}
+            else{
+                $("input[name='chkinfo']:checkbox:not(:checked)")[0].focus();
+                SetMsgShowAlert(2,"","請確定勾選所有選項，才能進行下一步，感謝");
+            }
+        });
+    });
+</script>
+}

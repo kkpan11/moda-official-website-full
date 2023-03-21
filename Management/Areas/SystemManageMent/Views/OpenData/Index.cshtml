@@ -1,0 +1,86 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="white-box">
+            <div class="bootstrap-table">
+                <div id="tableBox">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script>
+        var href = "@Url.Action("List", "OpenData", new { area = "SystemManageMent" })";
+        var backperPageShow = 0;     
+        searchFunction(1);
+        $(document).on("click", ".page_a", function() {
+            var p = getObjAtr($(this), "data-page");
+            searchFunction(p);
+        });
+
+        function searchFunction(p) {
+            var key = $("#QryKeyword").val() != undefined ? MODAhtmlEncode($("#QryKeyword"), "val") : "";
+            var getUrl = "?keyword=" + key + "&p=" + p;
+            var pageUrl = href + getUrl;
+            var DisplayCount = MODAhtmlEncode($('#perPageShow'), "val");
+            var diCount = diCountFunction(15, DisplayCount, backperPageShow);
+            var selectobj = {
+                "displayCount": diCount,
+                "p": p,
+                "keyword": key,
+            };
+            SetCookie("NewsObj", selectobj);
+            SetCookie("back", 1);
+            reloadDataTable(pageUrl);
+        }
+        function reloadDataTable(href) {
+            $("#tableBox").html("");
+            $("#tableBox").load(href, function() { });
+        }
+        function EditFun(id) {
+            href = "@Url.Action("Mode", "OpenData", new { area = "SystemManageMent" })?key=" + id;
+            $("#tableBox").html("");
+            $("#tableBox").load(href, function() { });
+        }
+        function Delete(id) {
+            var saveHref = '@Url.Action("Delete", "OpenData", new { area = "SystemManageMent" })';
+            Swal.fire({
+                title: '確定要刪除?',
+                icon: 'warning',
+                showDenyButton: true,
+                showCancelButton: false,
+                confirmButtonText: '刪除',
+                denyButtonText: '不要刪除'
+            }).then(result => {
+                if (result.isConfirmed) {
+                    $.ajax({
+                        url: saveHref,
+                        type: 'post',
+                        data: {
+                            key: id
+                        },
+                        dataType: "json",
+                        success: function(data) {
+                            if (data.statusCode == 200) {
+                                Swal.fire({
+                                    icon: "success",
+                                    title: "刪除成功"
+                                }).then(result => {
+                                    location.reload();
+                                });
+                            } else {
+                                Swal.fire({
+                                    icon: "warning",
+                                    title: data.content
+                                });
+                            }
+                        }
+                    });
+                }
+            })
+        }
+    </script>
+}
